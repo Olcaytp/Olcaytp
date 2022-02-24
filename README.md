@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olcaytp&show_icons=true&locale=en&layout=compact" alt="olcaytp" /></p>
 
-
+[![Olcaytp's 42 stats](https://badge42.herokuapp.com/api/stats/otapan)](https://github.com/JaeSeoKim/badge42)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olcaytp&theme=dark)](https://git.io/streak-stats)
 
 ![snake svg](https://github.com/Olcaytp/Olcaytp/blob/output/github-contribution-grid-snake.svg)
