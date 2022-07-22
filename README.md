@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olcaytp&label=Profile%20views&color=0e75b6&style=flat" alt="olcaytp" /> </p>
 
-- 🌱 I’m currently learning **AngularJS, Java and C**
+- 🌱 I’m currently learning **AngularJS, JavaScript and C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Olcaytp?tab=repositories](https://github.com/Olcaytp?tab=repositories)
 
