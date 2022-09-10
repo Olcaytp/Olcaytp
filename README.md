@@ -6,7 +6,7 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **AngularJS, JavaScript and C**
+ 🌱 I’m currently learning **Angular, JavaScript and C**
 
  👨‍💻 All of my projects are available at [https://github.com/Olcaytp?tab=repositories](https://github.com/Olcaytp?tab=repositories)
 
