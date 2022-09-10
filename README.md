@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olcay</h1>
-<a href="https://github.com/Olcaytp/Olcaytp" target="_blank" rel="noreferrer"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Olcaytp&show_icons=true&hide_border=false&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026" /> </a>
+<!--<a href="https://github.com/Olcaytp/Olcaytp" target="_blank" rel="noreferrer"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Olcaytp&show_icons=true&hide_border=false&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026" /> </a> -->
 <h3 align="center">A passionate developer candidate from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=olcaytp&label=Profile%20views&color=0e75b6&style=flat" alt="olcaytp" /> </p>
