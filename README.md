@@ -30,6 +30,12 @@
   <div align="center">
   <h1 align="center">Most Used Language</h1> 
 <a href="https://github.com/Olcaytp" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olcaytp&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olcaytp&show_icons=true&locale=en&layout=compact" alt="olcaytp" /></p> -->
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olcaytp&theme=dark)](https://git.io/streak-stats)
+
+![snake svg](https://github.com/Olcaytp/Olcaytp/blob/output/github-contribution-grid-snake.svg)
   </div
 </div>
 <!--  
@@ -44,10 +50,3 @@
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> -->
 
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olcaytp&show_icons=true&locale=en&layout=compact" alt="olcaytp" /></p>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olcaytp&theme=dark)](https://git.io/streak-stats)
-
-![snake svg](https://github.com/Olcaytp/Olcaytp/blob/output/github-contribution-grid-snake.svg)
