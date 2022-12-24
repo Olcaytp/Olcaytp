@@ -10,7 +10,7 @@
 
  👨‍💻 All of my projects are available at [https://github.com/Olcaytp?tab=repositories](https://github.com/Olcaytp?tab=repositories)
 
- 💬 Ask me about **C and JavaScript**
+ 💬 Ask me about **TypeScript and JavaScript**
 
  📫 How to reach me **olcaytapan10@gmail.com**
   </div>
