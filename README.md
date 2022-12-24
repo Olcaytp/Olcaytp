@@ -6,7 +6,7 @@
 
 <div align="center">
 
- 🌱 I’m  develope with **Angular/JavaScript-TypeScript**
+ 🌱 I  develope with **Angular/JavaScript-TypeScript**
 
  👨‍💻 All of my projects are available at [https://github.com/Olcaytp?tab=repositories](https://github.com/Olcaytp?tab=repositories)
 
