@@ -26,7 +26,7 @@
 </p> 
 
 <h2 align="center">:rocket:Technical Skills</h2>
-<div>
+<div align="center">
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
@@ -34,7 +34,6 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="60" alt="jquery" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bootstrap_aladdinGene.png" width="60" alt="bootstrap" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" alt="sass" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/svg_aladdinGene.gif" width="60" alt="svg" /> 
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="60" alt="mongodb" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="60" alt="postgre" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/docker_aladdinGene.png" width="60" alt="docker" /> 
