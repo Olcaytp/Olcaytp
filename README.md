@@ -1,5 +1,7 @@
 <p align="center"> 
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi 👋+I'm+Olcay;Welcome+to+my+Github+profile;I'm+a+Frontend+Developer...;)</p>
+&emsp;&emsp;&emsp;
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <!--<a href="https://github.com/Olcaytp/Olcaytp" target="_blank" rel="noreferrer"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Olcaytp&show_icons=true&hide_border=false&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026" /> </a> -->
 <h3 align="center">A passionate Front End - Angular Developer from Turkey</h3>
 
