@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
 </div>
 
-<!--<a href="https://github.com/Olcaytp/Olcaytp" target="_blank" rel="noreferrer"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Olcaytp&show_icons=true&hide_border=false&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026" /> </a> -->
+<a href="https://github.com/Olcaytp/Olcaytp" target="_blank" rel="noreferrer"> <img align="right" src="https://github-readme-stats.vercel.app/api?username=Olcaytp&show_icons=true&hide_border=false&title_color=c8ffc9&icon_color=236026&bg_color=09131B&text_color=ffffff&border_color=236026" /> </a>
 <h3 align="center">A passionate Front End - Angular Developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olcaytp&label=Profile%20views&color=0e75b6&style=flat" alt="olcaytp" /> </p>
@@ -46,8 +46,6 @@
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olcaytp&theme=dark)](https://git.io/streak-stats)
-![snake svg](https://github.com/Olcaytp/Olcaytp/blob/output/github-contribution-grid-snake.svg)
   </div
 </div> 
 
