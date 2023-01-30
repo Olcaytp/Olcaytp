@@ -25,14 +25,14 @@
 <a href="https://discord.gg/Olcay#8896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Olcay#8896" height="30" width="40" /></a>
 </p>
 
-<!-- <h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <img align="center" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" /> </img> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> --> 
+  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>
   <div align="center">
   <h1 align="center">Most Used Language</h1> 
 <a href="https://github.com/Olcaytp" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olcaytp&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olcaytp&show_icons=true&locale=en&layout=compact" alt="olcaytp" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olcaytp&show_icons=true&locale=en&layout=compact" alt="olcaytp" /></p> 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olcaytp&theme=dark)](https://git.io/streak-stats)
