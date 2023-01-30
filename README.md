@@ -46,6 +46,7 @@
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
     <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olcaytp&theme=dark)](https://git.io/streak-stats)
 ![snake svg](https://github.com/Olcaytp/Olcaytp/blob/output/github-contribution-grid-snake.svg)
   </div
 </div> 
