@@ -23,9 +23,7 @@
 <a href="https://linkedin.com/in/olcaytapan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olcaytapan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/olcaytapan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="olcaytapan10" height="30" width="40" /></a>
 <a href="https://discord.gg/Olcay#8896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Olcay#8896" height="30" width="40" /></a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=olcaytp&show_icons=true&locale=en&layout=compact" alt="olcaytp" /></p> 
+</p> 
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Olcaytp&theme=dark)](https://git.io/streak-stats)
