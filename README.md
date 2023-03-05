@@ -10,7 +10,7 @@
 
  🌱 I  develope with **Angular/JavaScript-TypeScript**
 
- 👨‍💻 All of my informations you can see at [https://olcaytapan.netlify.app/](https://olcaytapan-portfolio.netlify.app/))
+ 👨‍💻 All of my informations you can see at [olcaytapan-portfolio](https://olcaytapan.netlify.app/)
 
  💬 Ask me about **TypeScript and JavaScript**
 
