@@ -50,7 +50,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[      Tour-App](https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg)<h3 align="center">[Repo](https://github.com/Olcaytp/TourApp)</h3> | C#, ASP .NET, HTML, Css, Bootstrap | ![Tour-App](https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg)
+[                      Tour-App](https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg)<h3 align="center">[Repo](https://github.com/Olcaytp/TourApp)</h3> | C#, ASP .NET, HTML, Css, Bootstrap | ![Tour-App](https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg)
 [Angular Note Book](https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg)<h3 align="center">[Repo](https://github.com/Olcaytp/kanban-notebook)</h3> | Angular, HTML, Scss, TypeScript | ![Angular Note Book](https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg)
 [Angular Test Assesment](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/blob/master/src/assets/Edit.png)<h3 align="center">[Repo](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main)</h3> | Angular, Web Api, HTML, Css, JavaScript, TypeScript | ![Angular FireBase Recipe Book](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/blob/master/src/assets/Edit.png)
 [React - Todo App](https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png)<h3 align="center">[Repo](https://github.com/Olcaytp/React_todoapp)</h3> | React, HTML, Css, JavaScript | ![React - Todo App](https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png)
