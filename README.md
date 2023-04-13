@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
 </div>
-<h3 align="center">A passionate Front End - Angular Developer from Turkey</h3>
+<h3 align="center">A passionate Software Developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=olcaytp&label=Profile%20views&color=0e75b6&style=flat" alt="olcaytp" /> </p>
 
