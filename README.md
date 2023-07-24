@@ -1,10 +1,7 @@
-<h1 align="center">Hi 👋 I'm Olcay</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="100"/>
-</div>
-<h3 align="center">A passionate Software Developer from Turkey</h3>
+<h2> Hello There! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=olcaytp&label=Profile%20views&color=0e75b6&style=flat" alt="olcaytp" /> </p>
+[
+![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](https://olcaytapan-portfolio.netlify.app/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olcaytapan/)
 
 <div align="center">
 
