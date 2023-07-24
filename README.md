@@ -3,44 +3,18 @@
 [
 ![Website](https://img.shields.io/badge/Website-CC5500?style=for-the-badge&logo=&logoColor=white)](https://olcaytapan-portfolio.netlify.app/) [ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/olcaytapan/)
 
-<div align="center">
+<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
 
- 🌱 I  develope with **Angular/JavaScript-TypeScript**
+Software engineering is my passion and career goal. I continuously strive to develop myself and keep my technical knowledge up-to-date. Additionally, I possess strong teamwork and communication skills, which enable me to work collaboratively with other team members and achieve successful outcomes in projects. By working in the field of software engineering, I aim to bring innovative projects to life and contribute to the world.
 
- 👨‍💻 All of my informations you can see at [olcaytapan-portfolio](https://olcaytapan-portfolio.netlify.app/)
+## 👨‍💻 Professional Skills
 
- 💬 Ask me about **TypeScript and JavaScript**
+-  **Programming Languages:** C / C++ / C# / JavaScript / TypeScript
+-  **FrontEnd:** HTML5 / CSS / Angular / ASP .NET
+-  **BackEnd:**  .Net MVC / .NET CORE MVC
+-  **DevOps:**  Amazon Web Services (AWS) / Docker / Git&Github 
+-  **Database:** Relational Database (SQL / MsSQL / PostgreSQL)
 
- 📫 How to reach me **olcaytapan10@gmail.com**
-  </div>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/olcaytdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olcaytdev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/olcaytapan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="olcaytapan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/olcaytapan10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="olcaytapan10" height="30" width="40" /></a>
-<a href="https://discord.gg/Olcay#8896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Olcay#8896" height="30" width="40" /></a>
-</p> 
-
-<h2 align="center">:rocket:Technical Skills</h2>
-<div align="center">
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/html_aladdinGene.png" width="60" alt="html" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/css_aladdinGene.png" width="60" alt="css" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/javascript_aladdinGene.gif" width="60" alt="javascript" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/ts_aladdinGene.gif" width="60" alt="typescript" />
-    <img src="https://github.com/get-icon/geticon/raw/master/icons/angular-icon.svg" alt="Angular" width="60px">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="60" alt="jquery" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/bootstrap_aladdinGene.png" width="60" alt="bootstrap" /> 
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="60" alt="sass" />
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="60" alt="mongodb" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="60" />&nbsp;
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/docker_aladdinGene.png" width="60" alt="docker" /> 
-    <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" />
-    <img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/firebase_aladdinGene.webp" width="60" alt="firebase" />
-    <img src="https://github.com/prowebdev119/prowebdev119/blob/main/git%20profile%20icons/git_aladdinGene.gif" width="60" alt="git" />
-</div>
 <h2 align="center"> My projects</h2>
 
 ###
