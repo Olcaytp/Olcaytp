@@ -47,7 +47,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <caption> C# & .Net Core Projects<caption>
     <td align=center >2.</td>
     <td>ASP.NET-Web Project</td>
-    <td>https://github.com/Olcaytp/TourApp/</td> 
+    <td>https://github.com/Olcaytp/TourApp/ https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg</td> 
     <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
 </table>
