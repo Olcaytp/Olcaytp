@@ -33,7 +33,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 <tr>
     <td align=center >1.</td>
     <td>React-Project</td>
-    <td>https://github.com/Olcaytp/React_todoapp/</td> 
+    <td>https://github.com/Olcaytp/React_todoapp/  imglink: https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
     <td>React-React DOM-Props-Components</td>
 </tr>
 </table>
@@ -47,7 +47,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <caption> C# & .Net Core Projects<caption>
     <td align=center >2.</td>
     <td>ASP.NET-Web Project</td>
-    <td>https://github.com/Olcaytp/TourApp/ imglink: https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
+    <td>https://github.com/Olcaytp/TourApp/</td> 
     <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
 </table>
