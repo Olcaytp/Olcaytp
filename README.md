@@ -39,7 +39,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 </tr>
 <tr>
     <td align=center >2.</td>
-    <td>React-Project</td>
+    <td>React-Todo Project</td>
     <td>https://github.com/Olcaytp/React_todoapp/   https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
     <td>React-React DOM-Props-Components</td>
 </tr>
