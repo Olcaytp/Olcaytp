@@ -17,9 +17,30 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 -  **DevOps:**  Amazon Web Services (AWS) / Docker / Git&Github 
 -  **Database:** Relational Database (SQL / MsSQL / PostgreSQL)
 
-<h2 align="center"> My projects</h2>
+### <h2 align="center">&#127894; My Projects</h2>
 
-###
+
+<a href="#" target="_blank"> <img src="https://github.com/Olcaytp/Library_App/blob/master/Library_App/assets/c_sharp_icon.png" alt="csharp" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net core" width="50"/> </a> 
+
+ <table>
+<tr >
+    <caption> C# & .Net Core Projects<caption>
+    <th width="5%">S.Nu </th>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
+  
+</tr>
+<tr>
+    <td align=center >1.</td>
+    <td>React-Project</td>
+    <td>https://github.com/Olcaytp/TourApp/</td> 
+    <td>Ready Template Login Page-Admin Panel-MSSql Database</td>
+    <td>https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg" width="50"</td>
+</tr>
+
+
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
