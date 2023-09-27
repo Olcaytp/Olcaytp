@@ -26,7 +26,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <caption>React Projects<caption>
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
-    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="40%">Project&Images Link</th>
     <th align="left" width="30%">Libraries and Technologies I use</th>
   
 </tr>
@@ -47,7 +47,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <caption> C# & .Net Core Projects<caption>
     <td align=center >2.</td>
     <td>ASP.NET-Web Project</td>
-    <td>https://github.com/Olcaytp/TourApp/</td> 
+    <td>https://github.com/Olcaytp/TourApp/ imglink: https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
     <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
 </table>
