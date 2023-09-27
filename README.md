@@ -19,6 +19,25 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
+
+ <table>
+<tr >
+    <caption>React Projects<caption>
+    <th width="5%">S.Nu </th>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
+  
+</tr>
+<tr>
+    <td align=center >1.</td>
+    <td>React-Project</td>
+    <td>https://github.com/Olcaytp/React_todoapp/</td> 
+    <td>React-React DOM-Props-Components</td>
+</tr>
+</table>
+
 
 <a href="#" target="_blank"> <img src="https://github.com/Olcaytp/Library_App/blob/master/Library_App/assets/c_sharp_icon.png" alt="csharp" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net core" width="50"/> </a> 
@@ -36,7 +55,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <td align=center >1.</td>
     <td>ASP.NET-Web Project</td>
     <td>https://github.com/Olcaytp/TourApp/</td> 
-    <td>Ready Template Login Page-Admin Panel-MSSql Database</td>
+    <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
 </table>
 
@@ -55,17 +74,32 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <td align=center >1.</td>
     <td>Angular-NoteBook Project</td>
     <td>https://github.com/Olcaytp/kanban-notebook/</td> 
-    <td>Angular-Drag&Drop-Bulma Css Framework</td>
+    <td>Angular-JavaScript-HTML-Bulma Css Framework</td>
 </tr>
+<tr>
+    <td align=center >1.</td>
+    <td>Angular-Test Assesment Project</td>
+    <td>https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/</td> 
+    <td>Angular-JavaScript-TypeScript-HTML-Angular Material Css Framework-Web Api</td>
+</tr>
+<tr>
+    <td align=center >1.</td>
+    <td>Angular-Apartment-Management-System Thesis Project</td>
+    <td>https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/</td> 
+    <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
+</tr>
+<tr>
+    <td align=center >1.</td>
+    <td>Angular-FireBase Recipe Book Project</td>
+    <td>https://github.com/Olcaytp/AngularUdemyAssignments/tree/main/BasicCourseProject/</td> 
+    <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
+</tr>
+<tr>
+    <td align=center >1.</td>
+    <td>Angular-NodeJS Post Book Project</td>
+    <td>https://github.com/Olcaytp/Angular-NodeJS-Project/</td> 
+    <td>Angular-JavaScript-TypeScript-HTML-NodeJS-MongoDB</td>
+</tr>        
 </table>
-
-  Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-[....Angular Note Book....](https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg)<h3 align="center">[Repo](https://github.com/Olcaytp/kanban-notebook)</h3> | Angular, HTML, Scss, TypeScript | ![Angular Note Book](https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg)
-[....Angular Test Assesment....](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/blob/master/src/assets/Edit.png)<h3 align="center">[Repo](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main)</h3> | Angular, Web Api, HTML, Css, JavaScript, TypeScript | ![Angular FireBase Recipe Book](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/blob/master/src/assets/Edit.png)
-[....React - Todo App....](https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png)<h3 align="center">[Repo](https://github.com/Olcaytp/React_todoapp)</h3> | React, HTML, Css, JavaScript | ![React - Todo App](https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png)
-[Angular-Apartment-Management-System](https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/blob/master/src/assets/images/Apartment-Management-System.png)<h3 align="center">[Repo](https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project)</h3> | Angular, HTML, Css, JavaScript, Firebase | ![AYS-angular-apartment-management-system-thesis-project](https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/blob/master/src/assets/images/Apartment-Management-System.png)
-[Angular FireBase Recipe Book](https://github.com/Olcaytp/AngularUdemyAssignments/blob/main/BasicCourseProject/src/assets/img/Recipe-Book.png)<h3 align="center">[Repo](https://github.com/Olcaytp/AngularUdemyAssignments/tree/main/BasicCourseProject)</h3> | Angular, HTML, Css, JavaScript, Firebasee | ![Angular FireBase Recipe Book](https://github.com/Olcaytp/AngularUdemyAssignments/blob/main/BasicCourseProject/src/assets/img/Recipe-Book.png)
-[Angular - NodeJS Post Book](https://github.com/Olcaytp/Angular-NodeJS-Project/blob/master/src/assets/Post-Book.png)<h3 align="center">[Repo](https://github.com/Olcaytp/Angular-NodeJS-Project)</h3> | Angular, HTML, Css, JavaScript, NodeJS, MongoDB | ![Angular FireBase Recipe Book](https://github.com/Olcaytp/Angular-NodeJS-Project/blob/master/src/assets/Post-Book.png)
 
 
