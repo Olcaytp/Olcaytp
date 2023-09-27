@@ -33,7 +33,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>React-Project</td>
+    <td>React-Course Project</td>
     <td>https://github.com/Olcaytp/react-lessons</td> 
     <td>React-Props-Components</td>
 </tr>
