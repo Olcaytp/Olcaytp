@@ -37,7 +37,6 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <td>React-Project</td>
     <td>https://github.com/Olcaytp/TourApp/</td> 
     <td>Ready Template Login Page-Admin Panel-MSSql Database</td>
-    <td>https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg" width="50"</td>
 </tr>
 
 
