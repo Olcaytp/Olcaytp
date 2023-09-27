@@ -26,8 +26,8 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <caption>React Projects<caption>
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
-    <th align="left" width="35%">Project Link</th>
-    <th align="left" width="40%">Libraries and Technologies I use</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
   
 </tr>
 <tr>
@@ -62,6 +62,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <td>Angular-NoteBook Project</td>
     <td>https://github.com/Olcaytp/kanban-notebook/</td> 
     <td>Angular-JavaScript-HTML-Bulma Css Framework</td>
+     
 </tr>
 <tr>
     <td align=center >4.</td>
