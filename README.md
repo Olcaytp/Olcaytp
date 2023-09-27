@@ -50,6 +50,18 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <td>https://github.com/Olcaytp/TourApp/ https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg</td> 
     <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
+<tr >
+    <td align=center >3.</td>
+    <td>JokesWebApp - .NET Core MVC CRUD Project</td>
+    <td>https://github.com/Olcaytp/.NETCore-MVC-JokesWebApp</td> 
+    <td>.NET Core-C#-HTML-CSS-JavaScript</td>
+</tr>
+<tr >
+    <td align=center >4.</td>
+    <td>BTK Academy ASP.NET Core MVC Training Project</td>
+    <td>https://github.com/Olcaytp/ASP.NET-Core-MVC-BTKAKADEMI</td> 
+    <td>.NET Core-C#-HTML-CSS-JavaScript</td>
+</tr>
 </table>
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50"/> </a>
@@ -58,32 +70,32 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 <table>
 <tr >
     <caption> Javascript & Angular Projects<caption>
-    <td align=center >3.</td>
+    <td align=center >5.</td>
     <td>Angular-NoteBook Project</td>
     <td>https://github.com/Olcaytp/kanban-notebook/</td> 
     <td>Angular-JavaScript-HTML-Bulma Css Framework</td>
      
 </tr>
 <tr>
-    <td align=center >4.</td>
+    <td align=center >6.</td>
     <td>Angular-Test Assesment Project</td>
     <td>https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-Angular Material Css Framework-Web Api</td>
 </tr>
 <tr>
-    <td align=center >5.</td>
+    <td align=center >7.</td>
     <td>Angular-Apartment-Management-System Thesis Project</td>
     <td>https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
-    <td align=center >6.</td>
+    <td align=center >8.</td>
     <td>Angular-FireBase Recipe Book Project</td>
     <td>https://github.com/Olcaytp/AngularUdemyAssignments/tree/main/BasicCourseProject/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
-    <td align=center >7.</td>
+    <td align=center >8.</td>
     <td>Angular-NodeJS Post Book Project</td>
     <td>https://github.com/Olcaytp/Angular-NodeJS-Project/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-NodeJS-MongoDB</td>
