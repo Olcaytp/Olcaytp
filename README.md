@@ -11,8 +11,8 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 
 ## 👨‍💻 Professional Skills
 
--  **Programming Languages:** C / C++ / C# / JavaScript / TypeScript
--  **FrontEnd:** HTML5 / CSS / Angular / ASP .NET
+-  **Programming Languages:** JavaScript / TypeScript / C# / Python
+-  **FrontEnd:** HTML5 / CSS / Angular / ASP .NET / React
 -  **BackEnd:**  .Net MVC / .NET CORE MVC
 -  **DevOps:**  Amazon Web Services (AWS) / Docker / Git&Github 
 -  **Database:** Relational Database (SQL / MsSQL / PostgreSQL)
