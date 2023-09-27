@@ -23,7 +23,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 <a href="#" target="_blank"> <img src="https://github.com/Olcaytp/Library_App/blob/master/Library_App/assets/c_sharp_icon.png" alt="csharp" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".net core" width="50"/> </a> 
 
- <table>
+<table>
 <tr >
     <caption> C# & .Net Core Projects<caption>
     <th width="5%">S.Nu </th>
@@ -34,16 +34,33 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>React-Project</td>
+    <td>ASP.NET-Web Project</td>
     <td>https://github.com/Olcaytp/TourApp/</td> 
     <td>Ready Template Login Page-Admin Panel-MSSql Database</td>
 </tr>
+</table>
 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="50"/> </a> 
 
+<table>
+<tr >
+    <caption> Javascript & Angular Projects<caption>
+    <th width="5%">S.Nu </th>
+    <th align="left" width="20%">Project Name</th>
+    <th align="left" width="40%">Project Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
+</tr>
+<tr>
+    <td align=center >1.</td>
+    <td>Angular-NoteBook Project</td>
+    <td>https://github.com/Olcaytp/kanban-notebook/</td> 
+    <td>Angular-Drag&Drop-Bulma Css Framework</td>
+</tr>
+</table>
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[..............Tour-App............](https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg)<h3 align="center">[Repo](https://github.com/Olcaytp/TourApp)</h3> | C#, ASP .NET, HTML, Css, Bootstrap | ![Tour-App]("https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg" width="30")
 [....Angular Note Book....](https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg)<h3 align="center">[Repo](https://github.com/Olcaytp/kanban-notebook)</h3> | Angular, HTML, Scss, TypeScript | ![Angular Note Book](https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg)
 [....Angular Test Assesment....](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/blob/master/src/assets/Edit.png)<h3 align="center">[Repo](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main)</h3> | Angular, Web Api, HTML, Css, JavaScript, TypeScript | ![Angular FireBase Recipe Book](https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/blob/master/src/assets/Edit.png)
 [....React - Todo App....](https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png)<h3 align="center">[Repo](https://github.com/Olcaytp/React_todoapp)</h3> | React, HTML, Css, JavaScript | ![React - Todo App](https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png)
