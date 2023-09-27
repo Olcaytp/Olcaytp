@@ -45,13 +45,6 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 <table>
 <tr >
     <caption> C# & .Net Core Projects<caption>
-    <th width="5%">P.Nu </th>
-    <th align="left" width="20%">Project Name</th>
-    <th align="left" width="35%">Project Link</th>
-    <th align="left" width="40%">Libraries and Technologies I use</th>
-  
-</tr>
-<tr>
     <td align=center >2.</td>
     <td>ASP.NET-Web Project</td>
     <td>https://github.com/Olcaytp/TourApp/</td> 
@@ -65,12 +58,6 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 <table>
 <tr >
     <caption> Javascript & Angular Projects<caption>
-    <th width="5%">S.Nu </th>
-    <th align="left" width="20%">Project Name</th>
-    <th align="left" width="35%">Project Link</th>
-    <th align="left" width="40%">Libraries and Technologies I use</th>
-</tr>
-<tr>
     <td align=center >3.</td>
     <td>Angular-NoteBook Project</td>
     <td>https://github.com/Olcaytp/kanban-notebook/</td> 
