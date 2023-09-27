@@ -53,9 +53,9 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 </tr>
 <tr>
     <td align=center >2.</td>
-    <td>ASP.NET-Web Project</td>
-    <td>https://github.com/Olcaytp/TourApp/</td> 
-    <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
+    <td align="left" width="20%">ASP.NET-Web Project</td>
+    <td align="left" width="40%">https://github.com/Olcaytp/TourApp/</td> 
+    <td align="left" width="40%">ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
 </table>
 
@@ -77,25 +77,25 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <td>Angular-JavaScript-HTML-Bulma Css Framework</td>
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >4.</td>
     <td>Angular-Test Assesment Project</td>
     <td>https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-Angular Material Css Framework-Web Api</td>
 </tr>
 <tr>
-    <td align=center >4.</td>
+    <td align=center >5.</td>
     <td>Angular-Apartment-Management-System Thesis Project</td>
     <td>https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
-    <td align=center >5.</td>
+    <td align=center >6.</td>
     <td>Angular-FireBase Recipe Book Project</td>
     <td>https://github.com/Olcaytp/AngularUdemyAssignments/tree/main/BasicCourseProject/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
-    <td align=center >6.</td>
+    <td align=center >7.</td>
     <td>Angular-NodeJS Post Book Project</td>
     <td>https://github.com/Olcaytp/Angular-NodeJS-Project/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-NodeJS-MongoDB</td>
