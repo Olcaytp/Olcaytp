@@ -27,7 +27,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="40%">Project Link</th>
-    <th align="left" width="30%">Libraries and Technologies I use</th>
+    <th align="left" width="40%">Libraries and Technologies I use</th>
   
 </tr>
 <tr>
@@ -48,11 +48,11 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="40%">Project Link</th>
-    <th align="left" width="30%">Libraries and Technologies I use</th>
+    <th align="left" width="40%">Libraries and Technologies I use</th>
   
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >2.</td>
     <td>ASP.NET-Web Project</td>
     <td>https://github.com/Olcaytp/TourApp/</td> 
     <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
@@ -68,10 +68,10 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="40%">Project Link</th>
-    <th align="left" width="30%">Libraries and Technologies I use</th>
+    <th align="left" width="40%">Libraries and Technologies I use</th>
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >3.</td>
     <td>Angular-NoteBook Project</td>
     <td>https://github.com/Olcaytp/kanban-notebook/</td> 
     <td>Angular-JavaScript-HTML-Bulma Css Framework</td>
@@ -83,19 +83,19 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <td>Angular-JavaScript-TypeScript-HTML-Angular Material Css Framework-Web Api</td>
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >4.</td>
     <td>Angular-Apartment-Management-System Thesis Project</td>
     <td>https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >5.</td>
     <td>Angular-FireBase Recipe Book Project</td>
     <td>https://github.com/Olcaytp/AngularUdemyAssignments/tree/main/BasicCourseProject/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >6.</td>
     <td>Angular-NodeJS Post Book Project</td>
     <td>https://github.com/Olcaytp/Angular-NodeJS-Project/</td> 
     <td>Angular-JavaScript-TypeScript-HTML-NodeJS-MongoDB</td>
