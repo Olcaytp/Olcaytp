@@ -45,17 +45,17 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 <table>
 <tr >
     <caption> C# & .Net Core Projects<caption>
-    <th width="5%">S.Nu </th>
+    <th width="5%">P.Nu </th>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="40%">Project Link</th>
-    <th align="left" width="40%">Libraries and Technologies I use</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
   
 </tr>
 <tr>
     <td align=center >2.</td>
     <td align="left" width="20%">ASP.NET-Web Project</td>
     <td align="left" width="40%">https://github.com/Olcaytp/TourApp/</td> 
-    <td align="left" width="40%">ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
+    <td align="left" width="30%">ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
 </table>
 
