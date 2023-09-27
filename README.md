@@ -27,8 +27,8 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
     <caption>React Projects<caption>
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
-    <th align="left" width="30%">Project&Images Link</th>
-    <th align="left" width="40%">Libraries and Technologies I use</th>
+    <th align="left" width="40%">Project&Images Link</th>
+    <th align="left" width="30%">Libraries and Technologies I use</th>
   
 </tr>
 <tr>
