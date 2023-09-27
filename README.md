@@ -24,7 +24,7 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 
  <table>
 <tr >
-    <caption>React Projects<caption>
+    <caption>Javascript & React Projects<caption>
     <th width="5%">S.Nu </th>
     <th align="left" width="20%">Project Name</th>
     <th align="left" width="40%">Project&Images Link</th>
@@ -34,7 +34,13 @@ Additionaly, I've been developing full stack ecommerce projects with using C# & 
 <tr>
     <td align=center >1.</td>
     <td>React-Project</td>
-    <td>https://github.com/Olcaytp/React_todoapp/  imglink: https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
+    <td>https://github.com/Olcaytp/react-lessons</td> 
+    <td>React-Props-Components</td>
+</tr>
+<tr>
+    <td align=center >1.</td>
+    <td>React-Project</td>
+    <td>https://github.com/Olcaytp/React_todoapp/   https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
     <td>React-React DOM-Props-Components</td>
 </tr>
 </table>
