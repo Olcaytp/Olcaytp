@@ -43,7 +43,7 @@
     <td align=center >2.</td>
     <td>React-Todo Project</td>
     <td>https://github.com/Olcaytp/React_todoapp/ 
-    https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
+    <img src="https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png" alt="react-app" height="50" /></td> 
     <td>React-React DOM-Props-Components</td>
 </tr>
 </table>
@@ -63,51 +63,51 @@
 <tr >
     <td align=center >4.</td>
     <td>JokesWebApp - .NET Core MVC CRUD Project</td>
-    <td>https://github.com/Olcaytp/.NETCore-MVC-JokesWebApp</td> 
+    <td>https://github.com/Olcaytp/.NETCore-MVC-JokesWebApp <img src="https://user-images.githubusercontent.com/85984966/255951241-3c733a51-d25e-49d6-b193-585acf688894.jpeg" alt="react-app" height="50" /></td> 
     <td>.NET Core-C#-HTML-CSS-JavaScript</td>
 </tr>
 <tr >
     <td align=center >5.</td>
     <td>BTK Academy ASP.NET Core MVC Training Project</td>
-    <td>https://github.com/Olcaytp/ASP.NET-Core-MVC-BTKAKADEMI</td> 
+    <td>https://github.com/Olcaytp/ASP.NET-Core-MVC-BTKAKADEMI <img src="https://github.com/Olcaytp/ASP.NET-Core-MVC-BTKAKADEMI/blob/main/StoreApp/wwwroot/img/readme.1.jpg" alt="react-app" height="50" /></td> 
     <td>.NET Core-C#-HTML-CSS-JavaScript</td>
 </tr>
 </table>
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" width="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" alt="angular" height="60"/> </a> 
 
 <table>
 <tr >
     <caption> Javascript & Angular Projects<caption>
     <td align=center >6.</td>
     <td>Angular-NoteBook Project</td>
-    <td>https://github.com/Olcaytp/kanban-notebook/</td> 
+    <td>https://github.com/Olcaytp/kanban-notebook/ <img src="https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-HTML-Bulma Css Framework</td>
      
 </tr>
 <tr>
     <td align=center >7.</td>
     <td>Angular-Test Assesment Project</td>
-    <td>https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/</td> 
+    <td>https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/ <img src="https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/blob/master/src/assets/Details.png" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-TypeScript-HTML-Angular Material Css Framework-Web Api</td>
 </tr>
 <tr>
     <td align=center >8.</td>
     <td>Angular-Apartment-Management-System Thesis Project</td>
-    <td>https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/</td> 
+    <td>https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/ <img src="https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/blob/master/src/assets/images/Apartment-Management-System.png" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
     <td align=center >9.</td>
     <td>Angular-FireBase Recipe Book Project</td>
-    <td>https://github.com/Olcaytp/AngularUdemyAssignments/tree/main/BasicCourseProject/</td> 
+    <td>https://github.com/Olcaytp/AngularUdemyAssignments/tree/main/BasicCourseProject/ <img src="https://github.com/Olcaytp/AngularUdemyAssignments/blob/main/BasicCourseProject/src/assets/img/Recipe-Book.png" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
     <td align=center >10.</td>
     <td>Angular-NodeJS Post Book Project</td>
-    <td>https://github.com/Olcaytp/Angular-NodeJS-Project/</td> 
+    <td>https://github.com/Olcaytp/Angular-NodeJS-Project/ <img src="https://github.com/Olcaytp/Angular-NodeJS-Project/blob/master/src/assets/Post-Book.png" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-TypeScript-HTML-NodeJS-MongoDB</td>
 </tr>        
 </table>
