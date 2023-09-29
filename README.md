@@ -22,7 +22,7 @@
 ### <h2 align="center">&#127894; My Projects</h2>
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" width="50"/> </a> 
+<a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="50"/> </a> 
 
  <table>
 <tr >
@@ -36,13 +36,14 @@
 <tr>
     <td align=center >1.</td>
     <td>React-Course Project</td>
-    <td>https://github.com/Olcaytp/react-lessons</td> 
+    <td>https://github.com/Olcaytp/react-lessons <img src="https://github.com/Olcaytp/react-lessons/blob/master/src/img/lesson16.jpg" alt="react-app" height="50" />  </td> 
     <td>React-Props-Components</td>
 </tr>
 <tr>
     <td align=center >2.</td>
     <td>React-Todo Project</td>
-    <td>https://github.com/Olcaytp/React_todoapp/   https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
+    <td>https://github.com/Olcaytp/React_todoapp/ 
+    https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png</td> 
     <td>React-React DOM-Props-Components</td>
 </tr>
 </table>
@@ -56,7 +57,7 @@
     <caption> C# & .Net Core Projects<caption>
     <td align=center >3.</td>
     <td>ASP.NET-Web Project</td>
-    <td>https://github.com/Olcaytp/TourApp/ https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg</td> 
+    <td>https://github.com/Olcaytp/TourApp/<img src="https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg" alt="react-app" height="50" /></td> 
     <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
 <tr >
