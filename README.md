@@ -21,8 +21,9 @@
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50"/> </a>
 
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50"/> </a>
+<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" alt="html&Css" height="50"/> </a>
  <table>
 <tr >
     <caption>Javascript Projects<caption>
@@ -35,15 +36,16 @@
 <tr>
     <td align=center >1.</td>
     <td>Library Project</td>
-    <td>https://github.com/Olcaytp/my-react-project-library https://github.com/Olcaytp/my-react-project-library/blob/main/books-images/1.png alt="react-app" height="50" />  </td> 
+    <td>https://github.com/Olcaytp/my-react-project-library <img src="https://github.com/Olcaytp/my-react-project-library/blob/main/books-images/1.png" alt="react-app" height="50" />  </td> 
     <td>Javascript-Html-Css</td>
 </tr>
 <tr>
     <td align=center >2.</td>
     <td>Pizza Promt Project</td>
-    <td>https://github.com/Olcaytp/my-project-pizza https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image.png alt="react-app" height="50" />  </td> 
+    <td>https://github.com/Olcaytp/my-project-pizza <img src="https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image.png" alt="react-app" height="50" />  </td> 
     <td>Javascript-Html-Css</td>
 </tr>
+</table>
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="50"/> </a> 
