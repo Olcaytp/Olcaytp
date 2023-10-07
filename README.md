@@ -36,7 +36,7 @@
 <tr>
     <td align=center >1.</td>
     <td>Library Project</td>
-    <td>https://github.com/Olcaytp/my-react-project-library <img src="https://github.com/Olcaytp/my-react-project-library/blob/main/books-images/1.png" alt="react-app" height="50" />  </td> 
+    <td>https://github.com/Olcaytp/my-project-library <img src="https://github.com/Olcaytp/my-react-project-library/blob/main/books-images/1.png" alt="react-app" height="50" />  </td> 
     <td>Javascript-Html-Css</td>
 </tr>
 <tr>
