@@ -35,7 +35,7 @@
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>Api Project</td>
+    <td>Api & Promises</td>
     <td>https://github.com/Olcaytp/PairProject-WeatherApp-Technigo-Week3 <img src="https://github.com/Olcaytp/PairProject-WeatherApp-Technigo-Week3/blob/main/img/1.png" alt="react-app" height="50" />  </td> 
     <td>Javascript-Html-Css</td>
 </tr>
@@ -73,19 +73,25 @@
 </tr>
 <tr>
     <td align=center >1.</td>
-    <td>React-Course Project</td>
-    <td>https://github.com/Olcaytp/react-lessons <img src="https://github.com/Olcaytp/react-lessons/blob/master/src/img/lesson16.jpg" alt="react-app" height="50" />  </td> 
-    <td>React-Props-Components</td>
+    <td>PairProject-Music-Releases</td>
+    <td>https://github.com/Olcaytp/PairProject-Music-Releases-Technigo-Week4 <img src="https://github.com/Olcaytp/PairProject-Music-Releases-Technigo-Week4/blob/main/src/assets/1.png" alt="react-app" height="50" />  </td> 
+    <td>ReactBasics-Props-Components</td>
 </tr>
 <tr>
     <td align=center >2.</td>
+    <td>React-Course Project</td>
+    <td>https://github.com/Olcaytp/react-lessons <img src="https://github.com/Olcaytp/react-lessons/blob/master/src/img/lesson16.jpg" alt="react-app" height="50" />  </td> 
+    <td>ReactBasics-Props-Components</td>
+</tr>
+<tr>
+    <td align=center >3.</td>
     <td>React-Todo Project</td>
     <td>https://github.com/Olcaytp/React_todoapp/ 
     <img src="https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png" alt="react-app" height="50" /></td> 
     <td>React-React DOM-Props-Components</td>
 </tr>
 <tr>
-    <td align=center >2.</td>
+    <td align=center >4.</td>
     <td>React-Todo Project</td>
     <td>https://github.com/Olcaytp/react-hook-form 
     <img src="https://github.com/Olcaytp/react-hook-form/blob/main/src/assets/Picture3.png" alt="react-app" height="50" /></td> 
