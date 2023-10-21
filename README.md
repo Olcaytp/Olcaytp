@@ -36,19 +36,25 @@
 <tr>
     <td align=center >1.</td>
     <td>Api Project</td>
-    <td>https://github.com/Olcaytp/javascript-poke-api-project <img src="https://github.com/Olcaytp/javascript-poke-api-project/blob/main/src/asset/image.png" alt="react-app" height="50" />  </td> 
+    <td>https://github.com/Olcaytp/PairProject-WeatherApp-Technigo-Week3 <img src="https://github.com/Olcaytp/PairProject-WeatherApp-Technigo-Week3/blob/main/img/1.png" alt="react-app" height="50" />  </td> 
     <td>Javascript-Html-Css</td>
 </tr>
 <tr>
     <td align=center >2.</td>
-    <td>Library Project</td>
-    <td>https://github.com/Olcaytp/my-project-library <img src="https://github.com/Olcaytp/my-react-project-library/blob/main/books-images/1.png" alt="react-app" height="50" />  </td> 
+    <td>Api Project</td>
+    <td>https://github.com/Olcaytp/javascript-poke-api-project <img src="https://github.com/Olcaytp/javascript-poke-api-project/blob/main/src/asset/image.png" alt="react-app" height="50" />  </td> 
     <td>Javascript-Html-Css</td>
 </tr>
 <tr>
     <td align=center >3.</td>
+    <td>Library Project</td>
+    <td>https://github.com/Olcaytp/my-project-library-technigo-week2 <img src="https://github.com/Olcaytp/my-react-project-library/blob/main/books-images/1.png" alt="react-app" height="50" />  </td> 
+    <td>Javascript-Html-Css</td>
+</tr>
+<tr>
+    <td align=center >4.</td>
     <td>Pizza Promt Project</td>
-    <td>https://github.com/Olcaytp/my-project-pizza <img src="https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image.png" alt="react-app" height="50" />  </td> 
+    <td>https://github.com/Olcaytp/my-project-pizza-technigo-week1 <img src="https://github.com/Olcaytp/my-project-pizza/blob/main/code/img/image.png" alt="react-app" height="50" />  </td> 
     <td>Javascript-Html-Css</td>
 </tr>
 </table>
