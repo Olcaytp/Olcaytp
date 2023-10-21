@@ -72,26 +72,26 @@
   
 </tr>
 <tr>
-    <td align=center >1.</td>
+    <td align=center >5.</td>
     <td>PairProject-Music-Releases</td>
     <td>https://github.com/Olcaytp/PairProject-Music-Releases-Technigo-Week4 <img src="https://github.com/Olcaytp/PairProject-Music-Releases-Technigo-Week4/blob/main/src/assets/1.png" alt="react-app" height="50" />  </td> 
     <td>ReactBasics-Props-Components</td>
 </tr>
 <tr>
-    <td align=center >2.</td>
+    <td align=center >6.</td>
     <td>React-Course Project</td>
     <td>https://github.com/Olcaytp/react-lessons <img src="https://github.com/Olcaytp/react-lessons/blob/master/src/img/lesson16.jpg" alt="react-app" height="50" />  </td> 
     <td>ReactBasics-Props-Components</td>
 </tr>
 <tr>
-    <td align=center >3.</td>
+    <td align=center >7.</td>
     <td>React-Todo Project</td>
     <td>https://github.com/Olcaytp/React_todoapp/ 
     <img src="https://github.com/Olcaytp/React_todoapp/blob/master/public/todoapp.png" alt="react-app" height="50" /></td> 
     <td>React-React DOM-Props-Components</td>
 </tr>
 <tr>
-    <td align=center >4.</td>
+    <td align=center >8.</td>
     <td>React-Todo Project</td>
     <td>https://github.com/Olcaytp/react-hook-form 
     <img src="https://github.com/Olcaytp/react-hook-form/blob/main/src/assets/Picture3.png" alt="react-app" height="50" /></td> 
@@ -106,19 +106,19 @@
 <table>
 <tr >
     <caption> C# & .Net Core Projects<caption>
-    <td align=center >3.</td>
+    <td align=center >9.</td>
     <td>ASP.NET-Web Project</td>
     <td>https://github.com/Olcaytp/TourApp/<img src="https://github.com/Olcaytp/TourApp/blob/master/img/3.jpeg" alt="react-app" height="50" /></td> 
     <td>ASP .NET-MSSql Database-C#-HTML-CSS-JavaScript</td>
 </tr>
 <tr >
-    <td align=center >4.</td>
+    <td align=center >10.</td>
     <td>JokesWebApp - .NET Core MVC CRUD Project</td>
     <td>https://github.com/Olcaytp/.NETCore-MVC-JokesWebApp <img src="https://user-images.githubusercontent.com/85984966/255951241-3c733a51-d25e-49d6-b193-585acf688894.jpeg" alt="react-app" height="50" /></td> 
     <td>.NET Core-C#-HTML-CSS-JavaScript</td>
 </tr>
 <tr >
-    <td align=center >5.</td>
+    <td align=center >11.</td>
     <td>BTK Academy ASP.NET Core MVC Training Project</td>
     <td>https://github.com/Olcaytp/ASP.NET-Core-MVC-BTKAKADEMI <img src="https://github.com/Olcaytp/ASP.NET-Core-MVC-BTKAKADEMI/blob/main/StoreApp/wwwroot/img/readme.1.jpg" alt="react-app" height="50" /></td> 
     <td>.NET Core-C#-HTML-CSS-JavaScript</td>
@@ -131,32 +131,32 @@
 <table>
 <tr >
     <caption> Javascript & Angular Projects<caption>
-    <td align=center >6.</td>
+    <td align=center >12.</td>
     <td>Angular-NoteBook Project</td>
     <td>https://github.com/Olcaytp/kanban-notebook/ <img src="https://github.com/Olcaytp/kanban-notebook/blob/master/src/assets/2.jpeg" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-HTML-Bulma Css Framework</td>
      
 </tr>
 <tr>
-    <td align=center >7.</td>
+    <td align=center >13.</td>
     <td>Angular-Test Assesment Project</td>
     <td>https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/ <img src="https://github.com/Olcaytp/project-simple-app-taskilicious-ng-material-main/blob/master/src/assets/Details.png" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-TypeScript-HTML-Angular Material Css Framework-Web Api</td>
 </tr>
 <tr>
-    <td align=center >8.</td>
+    <td align=center >14.</td>
     <td>Angular-Apartment-Management-System Thesis Project</td>
     <td>https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/ <img src="https://github.com/Olcaytp/AYS-angular-apartment-management-system-thesis-project/blob/master/src/assets/images/Apartment-Management-System.png" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
-    <td align=center >9.</td>
+    <td align=center >15.</td>
     <td>Angular-FireBase Recipe Book Project</td>
     <td>https://github.com/Olcaytp/AngularUdemyAssignments/tree/main/BasicCourseProject/ <img src="https://github.com/Olcaytp/AngularUdemyAssignments/blob/main/BasicCourseProject/src/assets/img/Recipe-Book.png" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-TypeScript-HTML-FireBase</td>
 </tr>
 <tr>
-    <td align=center >10.</td>
+    <td align=center >16.</td>
     <td>Angular-NodeJS Post Book Project</td>
     <td>https://github.com/Olcaytp/Angular-NodeJS-Project/ <img src="https://github.com/Olcaytp/Angular-NodeJS-Project/blob/master/src/assets/Post-Book.png" alt="react-app" height="50" /></td> 
     <td>Angular-JavaScript-TypeScript-HTML-NodeJS-MongoDB</td>
