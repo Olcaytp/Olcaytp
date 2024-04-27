@@ -11,11 +11,11 @@
 
 ## 👨‍💻 Professional Skills
 
--  **Programming Languages:** JavaScript / TypeScript / C# / Python
--  **FrontEnd:** HTML5 / CSS / Angular / ASP .NET / React
--  **BackEnd:**  .Net MVC / .NET CORE MVC
+-  **Programming Languages:** JavaScript / TypeScript / Python / C#
+-  **FrontEnd:** HTML5 / CSS / React / ASP .NET / Angular
+-  **BackEnd:**  .Nodejs / .NET CORE MVC
 -  **DevOps:**  Amazon Web Services (AWS) / Docker / Git&Github 
--  **Database:** Relational Database (SQL / MsSQL / PostgreSQL)
+-  **Database:** Relational Database (SQL / MsSQL / PostgreSQL) / MongoDB / FireBase
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
