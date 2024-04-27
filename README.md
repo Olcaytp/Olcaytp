@@ -15,7 +15,7 @@
 -  **FrontEnd:** HTML5 / CSS / React / ASP .NET / Angular
 -  **BackEnd:**  .Nodejs / .NET CORE MVC
 -  **DevOps:**  Amazon Web Services (AWS) / Docker / Git&Github 
--  **Database:** Relational Database (SQL / MsSQL / PostgreSQL) / MongoDB / FireBase
+-  **Database:** Relational Database (SQL / MsSQL / PostgreSQL / MySQL) / MongoDB / FireBase
 
 ### <h2 align="center">&#127894; My Projects</h2>
 
