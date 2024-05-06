@@ -34,10 +34,16 @@
 </tr>
 
 <tr>
-    <td align=center >24.</td>
+    <td align=center >26.</td>
     <td>Flask-Python-Web-App</td>
     <td>https://github.com/Olcaytp/Flask-Python-Web-App/tree/main/assets <img src="https://github.com/Olcaytp/Flask-Python-Web-App/blob/main/assets/1.png" alt="python-web-app" height="50" />  </td> 
     <td> Python - Flask - Bootstrap - RESTful API </td>
+</tr>
+<tr>
+    <td align=center >24.</td>
+    <td>Python-ZooProject</td>
+    <td>https://github.com/Olcaytp/Python-zooProject <img src="https://github.com/Olcaytp/Python-zooProject/blob/main/assets/1.png" alt="python-app" height="50" />  </td> 
+    <td> Python </td>
 </tr>
 </table>
 
