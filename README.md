@@ -10,7 +10,7 @@
 ## 👨‍💻 Professional Skills
 
 -  **Programming Languages:** JavaScript / TypeScript / Python / C#
--  **FrontEnd:** HTML5 / CSS / React / ASP .NET / Angular
+-  **FrontEnd:** HTML5 / CSS / React / ASP .NET / Angular / Flask / Django
 -  **BackEnd:**  .Nodejs / .NET CORE MVC
 -  **DevOps:**  Amazon Web Services (AWS) / Docker / Git&Github 
 -  **Database:** Relational Database (SQL / MsSQL / PostgreSQL / MySQL) / MongoDB / FireBase
