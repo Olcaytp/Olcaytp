@@ -42,7 +42,7 @@
 </tr>
 
 <tr>
-    <td align=center >26.</td>
+    <td align=center >27.</td>
     <td>Flask-Python-Web-App</td>
     <td>https://github.com/Olcaytp/Flask-Python-Web-App/tree/main/assets <img src="https://github.com/Olcaytp/Flask-Python-Web-App/blob/main/assets/1.png" alt="python-web-app" height="50" />  </td> 
     <td> Python - Flask - Bootstrap - RESTful API </td>
