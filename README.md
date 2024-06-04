@@ -33,7 +33,12 @@
     <th align="left" width="30%">Libraries and Technologies I use</th>
   
 </tr>
-
+<tr>
+    <td align=center >28.</td>
+    <td>Django-Learning-Platform-Group-Project</td>
+    <td>https://github.com/Olcaytp/OnlineLearningPlatform <img src="https://github.com/Olcaytp/OnlineLearningPlatform/blob/main/assets/homepage.png" alt="python-web-app" height="50" />  </td> 
+    <td> Python - Django - Bootstrap5 - SQlite </td>
+</tr>
 <tr>
     <td align=center >27.</td>
     <td>Django-BookStore-Management-Project</td>
