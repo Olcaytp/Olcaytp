@@ -9,63 +9,13 @@
 
 ## 👨‍💻 Professional Skills
 
--  **Programming Languages:** JavaScript / TypeScript / Python / C#
--  **FrontEnd:** HTML5 / CSS / React / ASP .NET / Angular / Flask / Django
+-  **Programming Languages:** JavaScript / TypeScript  
+-  **FrontEnd:** HTML5 / CSS / React 
 -  **BackEnd:**  .Nodejs / .NET CORE MVC
 -  **DevOps:**  Amazon Web Services (AWS) / Docker / Git&Github 
 -  **Database:** Relational Database (SQL / MsSQL / PostgreSQL / MySQL) / MongoDB / FireBase
 
 ### <h2 align="center">&#127894; My Projects</h2>
-
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Python-logo.png" alt="python" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" alt="flask" height="50"/> </a> 
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" alt="djangi" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Mongodb-ar21.svg" alt="mongodb" height="50"/> </a>
-<a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="postman" height="50"/> </a>
-
- <table>
-<tr >
-    <caption>Python Projects<caption>
-    <th width="5%">P.Nu </th>
-    <th align="left" width="20%">Project Name</th>
-    <th align="left" width="40%">Project&Images Link</th>
-    <th align="left" width="30%">Libraries and Technologies I use</th>
-  
-</tr>
-<tr>
-    <td align=center >28.</td>
-    <td>Django-Learning-Platform-Group-Project</td>
-    <td>https://github.com/Olcaytp/OnlineLearningPlatform <img src="https://github.com/Olcaytp/OnlineLearningPlatform/blob/main/assets/homepage.png" alt="python-web-app" height="50" />  </td> 
-    <td> Python - Django - Bootstrap5 - SQlite </td>
-</tr>
-<tr>
-    <td align=center >27.</td>
-    <td>Django-BookStore-Management-Project</td>
-    <td>https://github.com/Olcaytp/Django-Bookstore-Project/tree/main <img src="https://github.com/Olcaytp/Django-Bookstore-Project/blob/main/assets/home-2.png" alt="python-web-app" height="50" />  </td> 
-    <td> Python - Django - Bootstrap5 - SQlite </td>
-</tr>
-
-<tr>
-    <td align=center >26.</td>
-    <td>Flask-Python-Web-App</td>
-    <td>https://github.com/Olcaytp/Flask-Python-Web-App/tree/main/assets <img src="https://github.com/Olcaytp/Flask-Python-Web-App/blob/main/assets/1.png" alt="python-web-app" height="50" />  </td> 
-    <td> Python - Flask - Bootstrap - RESTful API </td>
-</tr>
-
-<tr>
-    <td align=center >25.</td>
-    <td>Console-Based Bookstore Application</td>
-    <td>https://github.com/Olcaytp/Python-MongoDB <img src="https://github.com/Olcaytp/Python-MongoDB/blob/main/assets/2.png" alt="python-app" height="50" />  </td> 
-    <td> Python - MongoDB </td>
-</tr>
-<tr>
-    <td align=center >24.</td>
-    <td>Python-ZooProject</td>
-    <td>https://github.com/Olcaytp/Python-zooProject <img src="https://github.com/Olcaytp/Python-zooProject/blob/main/assets/1.png" alt="python-app" height="50" />  </td> 
-    <td> Python </td>
-</tr>
-</table>
 
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" alt="react" height="50"/> </a>
